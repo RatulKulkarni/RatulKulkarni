@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me: [kulkarniratul@gmail.com](mailto:kulkarniratul@gmail.com)
+- 📫 How to reach me: [**kulkarniratul@gmail.com**](mailto:kulkarniratul@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
