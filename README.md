@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratulkulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="ratulkulkarni" /> </p>
 
-<img align="right" width="200" src="https://github.com/RatulKulkarni/RatulKulkarni/blob/main/sleepy.gif?raw=true"/>
+<img align="right" width="250" src="https://github.com/RatulKulkarni/RatulKulkarni/blob/main/sleepy.gif?raw=true"/>
 
 - 🌱 I’m currently learning **Gen AI**
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **kulkarniratul@gmail.com** align this properly
+- 📫 How to reach me **kulkarniratul@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
