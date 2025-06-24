@@ -3,8 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratulkulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="ratulkulkarni" /> </p>
 
-<img align="right" width="200" src="https://github.com/RatulKulkarni/RatulKulkarni/blob/main/sleepy.gif?raw=true"/>
-
+<div style="float: right; margin-right: 20px;">
+  <img width="200" src="https://github.com/RatulKulkarni/RatulKulkarni/blob/main/sleepy.gif?raw=true"/>
+</div>
 - 🌱 I’m currently learning **Gen AI**
 
 - 💬 Ask me about **Web Development**
