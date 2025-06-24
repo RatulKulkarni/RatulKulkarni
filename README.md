@@ -5,11 +5,11 @@
 
 <img align="right" width="400" src="https://github.com/RatulKulkarni/RatulKulkarni/blob/main/sleepy.gif?raw=true"/>
 
-- 🌱 I’m currently learning **Gen AI**
+### 🌱 I’m currently learning **Gen AI**
 
-- 💬 Ask me about **Web Development**
+### 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **kulkarniratul@gmail.com**
+### 📫 How to reach me: **kulkarniratul@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
