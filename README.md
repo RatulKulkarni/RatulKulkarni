@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratulkulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="ratulkulkarni" /> </p>
 
-<img align="right" width="400" src="https://github.com/RatulKulkarni/RatulKulkarni/blob/main/sleepy.gif"/>
+<img align="right" width="400" src="https://github.com/RatulKulkarni/RatulKulkarni/blob/main/sleepy.gif?raw=true"/>
 
 - 🌱 I’m currently learning **Gen AI**
 
