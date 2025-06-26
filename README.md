@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Gen AI**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **nothing**
 
 - 📫 How to reach me: **kulkarniratul@gmail.com**
 
