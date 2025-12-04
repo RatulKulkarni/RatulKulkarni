@@ -5,7 +5,7 @@
 
 <img align="right" width="200" src="https://github.com/RatulKulkarni/RatulKulkarni/blob/main/sleepy.gif?raw=true"/>
 
-- 🌱 I’m currently learning **nothing**
+- 🌱 I’m currently learning **how to avoid procrastination**
 
 - 💬 Ask me about **nothing**
 
