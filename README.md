@@ -5,7 +5,7 @@
 
 <img align="right" width="200" src="https://github.com/RatulKulkarni/RatulKulkarni/blob/main/sleepy.gif?raw=true"/>
 
-- 🌱 I’m currently learning **Gen AI**
+- 🌱 I’m currently learning **nothing**
 
 - 💬 Ask me about **nothing**
 
